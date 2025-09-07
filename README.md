@@ -10,7 +10,7 @@ Developed an automated pet feeder using the TM4C123GH6Pm microcontroller. The sy
 |Water pump|
 |Auger controlled by motor|
 |AT-1127-ST-2-R 2730 Hz resonant transducer (Speaker)|
-|PSMN4R3-30PL logic-level MOSFETs|
+|PSMN4R3-30PL logic-level MOSFETs (2)|
 
 # Peripherals Used
 |                   |
