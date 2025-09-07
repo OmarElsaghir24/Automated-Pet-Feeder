@@ -1,6 +1,8 @@
 # Automated-Pet-Feeder
 Developed an automated pet feeder using the TM4C123GH6Pm microcontroller. The system dispenses food in regards to a feeding schedule and water based on the settings the owner configures. The pet feeder also can detect motion for dispensing water if "Motion" mode is set.
 
+![Automated Pet Feeder](https://github.com/user-attachments/assets/d0004f1b-4785-482b-bc7c-7fc9747d0579)
+
 # Hardware Components
 |                                                    |
 |----------------------------------------------------|
@@ -30,5 +32,16 @@ Developed an automated pet feeder using the TM4C123GH6Pm microcontroller. The sy
 * `feed x delete`: deletes the selected feeding schedule from EEPROM.
 * `water x`: sets a threshold for amount of water to be dispensed on the bowl.
 * `fill x`: selects which mode to configure (either auto or motion) for dispensing water.
+* `alert x`: enables or disables the speaker.
+* `Show`: shows the current setting stored in EEPROM for water level, fill mode, and alert status.
+
+![Pet Feeder Interface 1](https://github.com/user-attachments/assets/e9ef5b04-3b54-45f9-88e8-0a8d7ed9b68a)
+![Pet Feeder Interface 2](https://github.com/user-attachments/assets/220a1c4c-d43c-4b93-963a-3e124b6d752e)
+![Pet Feeder Interface 3](https://github.com/user-attachments/assets/807db67b-6887-4bd7-97b2-96726e5ae693)
+![Pet Feeder Interface 4](https://github.com/user-attachments/assets/b7718a84-a3d2-4625-bca7-0963172368b8)
+
+
+
+
 * `alert x`: either activates or deactivates the speaker. Speaker is used to alert user there is low water.
 * `Show`: displays settings saved on EEPROM for water level, fill mode, and alert status.  
