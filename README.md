@@ -39,9 +39,3 @@ Developed an automated pet feeder using the TM4C123GH6Pm microcontroller. The sy
 ![Pet Feeder Interface 2](https://github.com/user-attachments/assets/220a1c4c-d43c-4b93-963a-3e124b6d752e)
 ![Pet Feeder Interface 3](https://github.com/user-attachments/assets/807db67b-6887-4bd7-97b2-96726e5ae693)
 ![Pet Feeder Interface 4](https://github.com/user-attachments/assets/b7718a84-a3d2-4625-bca7-0963172368b8)
-
-
-
-
-* `alert x`: either activates or deactivates the speaker. Speaker is used to alert user there is low water.
-* `Show`: displays settings saved on EEPROM for water level, fill mode, and alert status.  
